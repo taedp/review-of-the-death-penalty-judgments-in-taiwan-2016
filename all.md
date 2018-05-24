@@ -1248,7 +1248,7 @@
 * 封面設計：劉彥岑
 * 出版日期：2017年3月
 * 本報告採創用CC授權
-![by-nc-nd](media/image4.png)
+![by-nc-nd](images/image4.png)
 
 ----------
 
