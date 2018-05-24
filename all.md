@@ -134,8 +134,8 @@
 <table class="table table-bordered table-hover table-condensed">
     <thead>
         <tr>
-            <th title="Field #1">前言</th>
-            <th title="Field #2">說明本次死刑判決報告之著重點、範圍及限制，以及與本次報告具重要關聯之若干基礎概念的介紹及說明。</th>
+            <th>前言</th>
+            <th>說明本次死刑判決報告之著重點、範圍及限制，以及與本次報告具重要關聯之若干基礎概念的介紹及說明。</th>
         </tr>
     </thead>
     <tbody>
@@ -374,10 +374,10 @@
 <table class="table table-bordered table-hover table-condensed">
     <thead>
         <tr>
-            <th title="Field #1">審級</th>
-            <th title="Field #2">鑑定機關</th>
-            <th title="Field #3">鑑定命題</th>
-            <th title="Field #4">鑑定結論</th>
+            <th>審級</th>
+            <th>鑑定機關</th>
+            <th>鑑定命題</th>
+            <th>鑑定結論</th>
         </tr>
     </thead>
     <tbody>
@@ -457,10 +457,10 @@
 <table class="table table-bordered table-hover table-condensed">
     <thead>
         <tr>
-            <th title="Field #1">審級</th>
-            <th title="Field #2">鑑定機關</th>
-            <th title="Field #3">鑑定命題</th>
-            <th title="Field #4">鑑定結論</th>
+            <th>審級</th>
+            <th>鑑定機關</th>
+            <th>鑑定命題</th>
+            <th>鑑定結論</th>
         </tr>
     </thead>
     <tbody>
@@ -620,10 +620,10 @@
 <table class="table table-bordered table-hover table-condensed">
     <thead>
         <tr>
-            <th title="Field #1">審級</th>
-            <th title="Field #2">鑑定機關</th>
-            <th title="Field #3">鑑定命題</th>
-            <th title="Field #4">鑑定結論</th>
+            <th>審級</th>
+            <th>鑑定機關</th>
+            <th>鑑定命題</th>
+            <th>鑑定結論</th>
         </tr>
     </thead>
     <tbody>
